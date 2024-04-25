@@ -29,10 +29,9 @@
   4. services/WeatherService.js: Is used for API call
 
 ### Libraries used
- 1. styled-components
+ 1. RecatJs
  2. axios
- 3. react-scripts
- 
+    
  ### Install : 
 
  1. react-js,
