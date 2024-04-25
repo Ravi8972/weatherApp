@@ -1,8 +1,36 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### ABOUT :
 
-## Available Scripts
+1. With The Weather Forecasting App, user can search locations by city name and observe the weather which includes temperature in °C or °F, Day, humidity, wind speed, clouds etc for that location.
+2. The app is developed using React.js.
+
+### DashBoard Images :
+
+### 1.  Day Time
+![Screenshot 2024-04-25 180932](https://github.com/Ravi8972/weatherApp/assets/120507471/89aa6808-ebc9-473a-81ac-677c7a852c73)
+### 2.  evening time
+![Screenshot 2024-04-25 202807](https://github.com/Ravi8972/weatherApp/assets/120507471/a1cf0e57-6c71-47eb-af2d-a252792b9535)
+
+API Info : 
+ 1. Open Weather APIs (https://openweathermap.org/)
+ 2. https://openweathermap.org/current
+
+  1. Make sure you already have Node.js and npm installed in your system,
+  2. You need an API key from OpenWeatherMap. After creating an account, grab your key
+  3. Then, under the src directory, go to sevices/WeatherService and replaceAPI_KEY with your OpenWeatherMap API Key
+  4. services/WeatherService.js: Is used for API call
+
+### Libraries used
+ 1. styled-components
+ 2. axios
+ 3. react-scripts
+ 
+ ### Install : 
+
+ 1. react-js,
+ 2. Check packages.json for details
+
 
 In the project directory, you can run:
 
