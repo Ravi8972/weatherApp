@@ -12,13 +12,18 @@
 ### 2.  evening time
 ![Screenshot 2024-04-25 202807](https://github.com/Ravi8972/weatherApp/assets/120507471/a1cf0e57-6c71-47eb-af2d-a252792b9535)
 
-API Info : 
+### API Info : 
  1. Open Weather APIs (https://openweathermap.org/)
  2. https://openweathermap.org/current
 
+### ⚠️ Important Instructions ⚠️:
+1. Create .env file in root of the project.
+2.  Change the desired value. eg API Key
+
+### Requirements : 
   1. Make sure you already have Node.js and npm installed in your system,
   2. You need an API key from OpenWeatherMap. After creating an account, grab your key
-  3. Then, under the src directory, go to sevices/WeatherService and replaceAPI_KEY with your OpenWeatherMap API Key
+  3. Then, under the src directory, go to sevices/WeatherService and replace API_KEY with your OpenWeatherMap API Key
   4. services/WeatherService.js: Is used for API call
 
 ### Libraries used
